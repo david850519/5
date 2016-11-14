@@ -1,5 +1,5 @@
 {
-  "name": "Howard's-socket-chat",
+  "name": "zitim's-socket-chat",
   "version": "1.0.0",
   "description": "my first socket.io app",
   "main": "helloworld.js",
@@ -10,7 +10,7 @@
     "chat room",
     "socket.io"
   ],
-  "author": "howard-yang",
+  "author": "zitim",
   "license": "MIT",
   "dependencies": {
     "express": "4.12.4",
