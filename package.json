@@ -13,14 +13,5 @@
     "ejs": "2.4.1",
     "express": "4.13.3"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/zitim/node.js.git"
-  },
-  "keywords": [
-    "node",
-    "heroku",
-    "express"
-  ],
-  "license": "MIT"
+  
 }
