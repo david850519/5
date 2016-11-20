@@ -6,7 +6,7 @@
    "engines": {
      "node": "5.9.1"
    },
-    "main": "index.js",
+    "main": "helloworld.js",
     "scripts": {
       "start": "node helloworld.js"
     },
