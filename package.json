@@ -1,22 +1,33 @@
-{
-    "name": "node-js-getting-started",
+// {
+//     "name": "node-js-getting-started",
  
-   "version": "0.2.5",
-    "description": "A sample Node.js app using Express 4",
-   "engines": {
-     "node": "5.9.1"
-   },
-    "main": "helloworld.js",
-    "scripts": {
-      "start": "node helloworld.js"
-    },
-    "dependencies": {
-      "ejs": "2.4.1",
-      "express": "4.13.3"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/zitim/node.js.git"
-    }
-    
+//    "version": "0.2.5",
+//     "description": "A sample Node.js app using Express 4",
+//    "engines": {
+//      "node": "5.9.1"
+//    },
+//     "main": "index.js",
+//     "scripts": {
+//       "start": "node helloworld.js"
+//     },
+//     "dependencies": {
+//       "ejs": "2.4.1",
+//       "express": "4.13.3"
+//     },
+//     "repository": {
+//       "type": "git",
+//       "url": "https://github.com/zitim/node.js.git"
+//     }
+
+// }  
+{
+  "name":"tim",
+  "version":"0.0.1",
+  "private":true,
+  "dependencies":{
+    "express":"4.5.1",
+    "mongodb":"1.4.7",
+    "mongoose":"3.8.12",
+    "socket.io":"0.0.17"
+  }
 }
