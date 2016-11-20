@@ -7,6 +7,4 @@
     res.end('Hello World\n');
   }).listen(port, ip);
 
-  console.log("Server running at http://" + ip + ":" + port);
-  console.log('Hello World\n');
-   alert('Hello World\n');
+
